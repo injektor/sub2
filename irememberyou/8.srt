@@ -1,0 +1,2885 @@
+﻿1
+00:00:00,000 --> 00:00:00,200
+<font color="#FFFF00">Diterje</font>
+
+2
+00:00:00,200 --> 00:00:00,400
+<font color="#FFFF00">Diterje</font><font color="#FFFF00">mahkan</font>
+
+3
+00:00:00,400 --> 00:00:00,600
+<font color="#FFFF00">Diterje</font><font color="#FFFF00">mahkan</font> <font color="#FFFF00">oleh</font>
+
+4
+00:00:00,600 --> 00:00:00,800
+<font color="#FFFF00">Diterje</font><font color="#FFFF00">mahkan</font> <font color="#FFFF00">oleh</font> <font color="#FFFF00">Tim</font>
+
+5
+00:00:00,800 --> 00:00:01,000
+<font color="#FFFF00">Diterje</font><font color="#FFFF00">mahkan</font> <font color="#FFFF00">oleh</font> <font color="#FFFF00">Tim</font> <font color="#FFFF00">Asma</font>
+
+6
+00:00:01,000 --> 00:00:01,200
+<font color="#FFFF00">Diterje</font><font color="#FFFF00">mahkan</font> <font color="#FFFF00">oleh</font> <font color="#FFFF00">Tim</font> <font color="#FFFF00">Asma</font> <font color="#FFFF00">Fruity</font>
+
+7
+00:00:01,200 --> 00:00:01,400
+<font color="#DC143C">★</font><font color="#FFFF00">Diterje</font><font color="#FFFF00">mahkan</font> <font color="#FFFF00">oleh</font> <font color="#FFFF00">Tim</font> <font color="#7FFF00">Asma</font> <font color="#FF00FF">Fruity</font><font color="#DC143C">★</font>
+
+8
+00:00:01,400 --> 00:00:02,400
+<font color="#4169E1">★</font><font color="#FFFF00">Diterje</font><font color="#FFFF00">mahkan</font> <font color="#FFFF00">oleh</font> <font color="#FFFF00">Tim</font> <font color="#7FFF00">Asma</font> <font color="#FF00FF">Fruity</font><font color="#4169E1">★</font>
+
+9
+00:00:02,400 --> 00:00:04,000
+<font color="#FF00FF">★</font><font color="#FFFF00">Diterje</font><font color="#FFFF00">mahkan</font> <font color="#FFFF00">oleh</font> <font color="#FFFF00">Tim</font> <font color="#7FFF00">Asma</font> <font color="#FF00FF">Fruity</font><font color="#FF00FF">★</font>
+
+10
+00:00:04,600 --> 00:00:04,800
+<font color="#FFFF00">Pe</font>
+
+11
+00:00:04,800 --> 00:00:05,000
+<font color="#FFFF00">Pe</font><font color="#FFFF00">ner</font>
+
+12
+00:00:05,000 --> 00:00:05,200
+<font color="#FFFF00">Pe</font><font color="#FFFF00">ner</font><font color="#FFFF00">je</font>
+
+13
+00:00:05,200 --> 00:00:05,400
+<font color="#FFFF00">Pe</font><font color="#FFFF00">ner</font><font color="#FFFF00">je</font><font color="#FFFF00">mah:</font>
+
+14
+00:00:05,400 --> 00:00:05,600
+<font color="#FFFF00">Pe</font><font color="#FFFF00">ner</font><font color="#FFFF00">je</font><font color="#FFFF00">mah:</font> <font color="#FFFF00">MurniDianaGayesaLatief,</font>
+
+15
+00:00:05,600 --> 00:00:05,800
+<font color="#FFFF00">Pe</font><font color="#FFFF00">ner</font><font color="#FFFF00">je</font><font color="#FFFF00">mah:</font> <font color="#FFFF00"> MurniDianaGayesaLatief,</font> <font color="#FFFF00"> OyiInzaghi</font>
+
+16
+00:00:05,800 --> 00:00:07,200
+<font color="#FFFF00">Pe</font><font color="#FFFF00">ner</font><font color="#FFFF00">je</font><font color="#FFFF00">mah:</font> <font color="#66FFFF">MurniDianaGayesaLatief,</font> <font color="#FF0033"> OyiInzaghi </font>
+
+17
+00:00:07,450 --> 00:00:09,410
+Ya, Direktur Ahn.
+
+18
+00:00:11,230 --> 00:00:14,370
+Tidak, lebih baik mendapatkan Cha Ji An lebih dulu.
+
+19
+00:00:15,110 --> 00:00:19,700
+Aku sendiri yang akan mengurus Lee Hyeon.
+
+20
+00:00:22,380 --> 00:00:25,380
+Aku mengerti.
+
+21
+00:00:33,400 --> 00:00:35,240
+<font color="#FFFF00">= Episode 8 =</font>
+
+22
+00:01:00,020 --> 00:01:01,460
+Oh, terima kasih.
+
+23
+00:01:01,460 --> 00:01:03,110
+Aku akan membawanya sampai ke depan rumahmu.
+
+24
+00:01:03,110 --> 00:01:05,470
+Rumahku tepat di sebelah sana.
+
+25
+00:01:06,740 --> 00:01:08,390
+Masuklah.
+
+26
+00:01:08,390 --> 00:01:10,070
+Masuklah.
+
+27
+00:02:06,470 --> 00:02:07,310
+Siapa kau?
+
+28
+00:02:07,310 --> 00:02:10,880
+Jangan khawatir. Mereka bilang padaku untuk tidak terlalu mudah membunuhmu.
+
+29
+00:02:33,930 --> 00:02:37,600
+<i>Kartu yang diletakkan saat Jaksa Shin menghilang.</i>
+
+30
+00:02:40,580 --> 00:02:43,510
+<i>Dia tidak mengirim ini tanpa alasan.</i>
+
+31
+00:02:44,830 --> 00:02:50,300
+<i>Apa ini peringatan bahwa seseorang akan menghilang?</i>
+
+32
+00:02:58,330 --> 00:03:00,210
+<i>Tidak mungkin.</i>
+
+33
+00:03:12,320 --> 00:03:13,990
+<i>Si Brengsek itu.</i>
+
+34
+00:03:18,760 --> 00:03:21,430
+<i>Tidak aktif saat ini.</i>
+
+35
+00:03:29,980 --> 00:03:31,850
+Ayolah, benar-benar.
+
+36
+00:03:42,760 --> 00:03:44,960
+Lee Hyeon. Ada apa tengah malam begini?
+
+37
+00:03:44,960 --> 00:03:46,780
+Kau bersama Cha Ji An?
+
+38
+00:03:46,780 --> 00:03:48,720
+Kami tidak punya kasus yang mendesak.
+
+39
+00:03:48,720 --> 00:03:53,100
+Aku bukan Ketua Tim jahat yang menahan mereka sampai larut malam.
+
+40
+00:04:00,520 --> 00:04:02,760
+Apa sesuatu terjadi?
+
+41
+00:04:07,820 --> 00:04:10,020
+Apa ada sesuatu yang terjadi?
+
+42
+00:04:28,980 --> 00:04:33,730
+Apa yang harus aku lakukan? Ini membuatku berpikir.
+
+43
+00:04:35,360 --> 00:04:37,510
+Haruskah aku membiarkannya hidup?
+
+44
+00:04:47,710 --> 00:04:49,380
+Detektif Cha!
+
+45
+00:05:01,470 --> 00:05:03,000
+Bajingan.
+
+46
+00:05:09,940 --> 00:05:11,850
+Lari.
+
+47
+00:05:40,700 --> 00:05:42,460
+Kau baik-baik saja?
+
+48
+00:05:42,460 --> 00:05:44,000
+Bagaimana kau...
+
+49
+00:05:44,000 --> 00:05:46,610
+Ada belanjaanmu yang tinggal di mobilku.
+
+50
+00:05:47,230 --> 00:05:51,170
+Beruntung belanjaanmu ada yang tinggal di mobilku.
+
+51
+00:05:51,170 --> 00:05:55,050
+Aku diselamatkan karena kebiasaan ketinggalan barang.
+
+52
+00:05:57,460 --> 00:06:00,170
+Aku rasa kau harus pergi ke rumah sakit.
+
+53
+00:06:00,170 --> 00:06:03,370
+Terima kasih. Berkat kau, aku hidup.
+
+54
+00:06:10,030 --> 00:06:12,700
+Bagaimana kau...
+
+55
+00:06:12,700 --> 00:06:14,740
+Apa yang terjadi?
+
+56
+00:06:17,650 --> 00:06:20,110
+Kenapa kau disini?
+
+57
+00:06:20,110 --> 00:06:22,810
+Dia datang menolongku.
+
+58
+00:06:25,150 --> 00:06:27,880
+Berkat Pengacara Jeong...
+
+59
+00:06:42,790 --> 00:06:47,920
+<font color="#FFFF00">= VIII : Ingatlah Aku =</font>
+
+60
+00:06:49,140 --> 00:06:51,450
+Ada gegar kecil.
+
+61
+00:06:51,450 --> 00:06:56,080
+Dari pemeriksaan sinar X tidak ada tulang yang patah.
+
+62
+00:06:56,080 --> 00:06:58,910
+Kau bilang ini bukan cedera yang harus dikhawatirkan, kan?
+
+63
+00:06:58,910 --> 00:07:02,370
+Jika sakit kepalanya makin parah, tolong beritahu aku.
+
+64
+00:07:07,000 --> 00:07:09,240
+Dia tidur sangat nyenyak.
+
+65
+00:07:11,360 --> 00:07:13,400
+Mari kita bicara sebentar.
+
+66
+00:07:16,770 --> 00:07:20,070
+Aku kebetulan bertemu Detektif Cha di supermarket lalu...
+
+67
+00:07:20,070 --> 00:07:22,880
+mobilnya mogok jadi aku mengantarnya pulang.
+
+68
+00:07:22,880 --> 00:07:27,440
+Belanjaan Detektif Cha ketinggalan di mobilku jadi aku balik mencarinya.
+
+69
+00:07:29,150 --> 00:07:32,080
+Kau mau aku menjelaskannya dengan lebih jelas?
+
+70
+00:07:32,080 --> 00:07:36,940
+Kau kebetulan bertemu dengannya dan mobilnya kebetulan mogok.
+
+71
+00:07:38,260 --> 00:07:42,900
+Aku ingat kau bilang kau tidak percaya pada kebetulan.
+
+72
+00:07:42,900 --> 00:07:43,930
+Aku memang bilang itu.
+
+73
+00:07:43,930 --> 00:07:48,840
+Lalu, jika semua itu bukan kebetulan.
+
+74
+00:07:49,680 --> 00:07:51,230
+Apa itu namanya?
+
+75
+00:07:51,230 --> 00:07:54,520
+Niat? Rencana?
+
+76
+00:07:54,520 --> 00:07:56,800
+Apa itu takdir?
+
+77
+00:07:57,660 --> 00:08:01,440
+Aku selalu berpikir aku ingin lebih dekat dengan Detektif Cha.
+
+78
+00:08:01,940 --> 00:08:06,060
+Ini merupakan kesempatan untukku.
+
+79
+00:08:06,720 --> 00:08:14,340
+Aku ingin lebih dekat dengan Detektif Cha dan Profesor Lee.
+
+80
+00:08:14,340 --> 00:08:16,140
+Alasannya?
+
+81
+00:08:16,140 --> 00:08:18,760
+Alasan? Apa perlu alasan?
+
+82
+00:08:18,760 --> 00:08:22,630
+Jika kita lihat sudut pandang Profesor, saat kau menemukan jalan,
+
+83
+00:08:22,630 --> 00:08:25,360
+ada bunga yang kau injak.
+
+84
+00:08:25,360 --> 00:08:27,940
+Lalu ada bunga yang menarik di matamu.
+
+85
+00:08:27,940 --> 00:08:31,580
+Katakanlah itu, untuk sekarang.
+
+86
+00:08:35,730 --> 00:08:37,470
+Apa mungkin...
+
+87
+00:08:38,750 --> 00:08:42,710
+Yang Seung Hoon yang menyuruhnya?
+
+88
+00:08:44,840 --> 00:08:47,480
+Mungkin.
+
+89
+00:08:47,480 --> 00:08:50,120
+Dia bukan tipe orang bisa duduk diam.
+
+90
+00:08:50,690 --> 00:08:54,550
+Kau bicara seolah-olah kau tidak tahu.
+
+91
+00:08:54,550 --> 00:08:57,650
+Karena aku tidak tahu. Aku juga akan mencari tahu.
+
+92
+00:08:57,650 --> 00:08:59,430
+Baiklah.
+
+93
+00:09:18,060 --> 00:09:21,170
+Tukang tidur di semua tempat, kau tidur sangat nyenyak.
+
+94
+00:09:21,170 --> 00:09:25,050
+Tidak sopan melihat orang yang sedang tidur.
+
+95
+00:09:38,100 --> 00:09:41,680
+Aku pasti akan menangkapnya.
+
+96
+00:09:43,550 --> 00:09:48,000
+Saat aku menangkapmu, kau mati.
+
+97
+00:09:59,610 --> 00:10:02,120
+Ini alami jika terguncang dengan pukulan sebanyak itu.
+
+98
+00:10:02,120 --> 00:10:05,470
+Tubuhmu merespon terlepas dari keinginanmu.
+
+99
+00:10:05,470 --> 00:10:06,960
+Ya.
+
+100
+00:10:08,070 --> 00:10:11,660
+Aku tidak pernah mendapatkan pukulan sebanyak itu sendirian.
+
+101
+00:10:15,620 --> 00:10:20,100
+Kau tidak tahu etiket untuk tidak melihat orang terus-terusan?
+
+102
+00:10:21,080 --> 00:10:24,260
+<font color="#FFFF00">subtitle by team Asma fruity @Oyi&Murni</font>
+
+103
+00:10:25,120 --> 00:10:27,220
+Bagaimana dengan Pengacara Jeong?
+
+104
+00:10:27,220 --> 00:10:29,370
+Dia sudah pergi!
+
+105
+00:10:29,370 --> 00:10:30,780
+Benarkah?
+
+106
+00:10:31,660 --> 00:10:33,690
+Aku bahkan belum berterima kasih padanya.
+
+107
+00:10:33,690 --> 00:10:35,830
+Kau sudah melakukannya di rumahmu.
+
+108
+00:10:35,830 --> 00:10:37,320
+Itu belum cukup.
+
+109
+00:10:37,320 --> 00:10:40,550
+Itu tidak kurang. Itu sudah banyak!
+
+110
+00:10:42,570 --> 00:10:49,000
+Aku mengerti perasaan gelisahmu terhadap Pengacara Jeong.
+
+111
+00:10:49,000 --> 00:10:50,330
+Tapi,
+
+112
+00:10:50,330 --> 00:10:52,630
+<i>Kau baik-baik saja?</i>
+
+113
+00:10:53,860 --> 00:10:56,780
+<i>Aku rasa kau harus pergi ke rumah sakit.</i>
+
+114
+00:10:57,490 --> 00:11:01,270
+aku lihat ketulusan di wajahnya mengkhawatirkanku.
+
+115
+00:11:01,890 --> 00:11:04,430
+Apa yang ingin kau lakukan? Kau mau tinggal lebih lama?
+
+116
+00:11:04,430 --> 00:11:06,290
+- Aku mau pergi.
+- Aigoo.
+
+117
+00:11:06,290 --> 00:11:10,250
+Tidak. Aku tidak berminat menjadi pasien palsu.
+
+118
+00:11:11,110 --> 00:11:12,650
+Uh, punggungku!
+
+119
+00:11:12,650 --> 00:11:14,910
+Apa aku baik-baik saja? Aku rasa punggungku sakit.
+
+120
+00:11:14,910 --> 00:11:17,070
+Itu juga bisa terjadi karena kau tidur terlalu lama.
+
+121
+00:11:17,070 --> 00:11:20,200
+Aku rasa bukan itu masalahnya.
+
+122
+00:11:21,090 --> 00:11:24,140
+Uh! Ayo pergi. Ahuh!
+Kenapa kau sangat berhati dingin?
+
+123
+00:11:24,140 --> 00:11:25,840
+Ahuh!
+
+124
+00:11:34,180 --> 00:11:39,550
+Siapa yang meletakkan benda jelek ini di pintuku?
+
+125
+00:11:40,270 --> 00:11:42,470
+Kau tidak ingat?
+
+126
+00:11:50,300 --> 00:11:52,220
+<i>Aku baik-baik saja.</i>
+
+127
+00:12:01,840 --> 00:12:03,070
+<i> Apa ini perlu?</i>
+
+128
+00:12:03,070 --> 00:12:08,230
+<i> Aku juga berpikir mengunci pintu rapat-rapat dan
+memanggil tim forensik di pagi hari.</i>
+
+129
+00:12:09,090 --> 00:12:13,790
+<i>Karena sidik jari teroris itu dan jejak bukti harus diamankan.</i>
+
+130
+00:12:13,790 --> 00:12:18,140
+<i> Apa yang terjadi jika seseorang masuk kesana?
+Kau tidak pernah tahu apakah bajingan itu mungkin kembali.</i>
+
+131
+00:12:18,140 --> 00:12:20,880
+<i> Dia mungkin lari melihat ini.</i>
+
+132
+00:12:32,060 --> 00:12:37,590
+Aku dengar aku mengalami gegar kecil.
+Aku rasa aku sedikit bereaksi berlebihan.
+
+133
+00:12:47,090 --> 00:12:50,430
+Lihat kekacauan di rumahku!
+
+134
+00:12:50,430 --> 00:12:53,950
+Ini tidak berbeda dari biasanya, kan?
+
+135
+00:12:56,110 --> 00:13:00,650
+Jangan masuk dan tetap disana. Ini TKP.
+
+136
+00:13:07,460 --> 00:13:09,970
+Kau memanggil tim forensik?
+
+137
+00:13:09,970 --> 00:13:13,630
+Aku akan memanggilnya besok pagi. Ini terlalu cepat.
+
+138
+00:13:13,630 --> 00:13:15,990
+Kau punya tempat lain untuk tinggal?
+
+139
+00:13:16,840 --> 00:13:18,930
+Rumah bibiku?
+
+140
+00:13:20,530 --> 00:13:22,580
+Tidak, aku tidak bisa...
+
+141
+00:13:22,580 --> 00:13:27,430
+Jika bajingan itu mengikutiku ke rumah bibiku, maka kami semua
+berada dalam bahaya. Ahuh...
+
+142
+00:13:27,430 --> 00:13:29,750
+Mintalah perlindungan pribadi.
+
+143
+00:13:29,750 --> 00:13:34,220
+Itu bagus. Tapi itu dibayar oleh pajak.
+
+144
+00:13:34,220 --> 00:13:39,710
+Jika seorang polisi mendapat perlindungan untuk insiden seperti ini,
+departemen kepolisian bisa dimarahi.
+
+145
+00:13:39,710 --> 00:13:41,770
+Jadi dimana kau akan tinggal?
+
+146
+00:13:41,770 --> 00:13:45,510
+Untuk sekarang, aku akan tinggal di kantor.
+
+147
+00:13:45,510 --> 00:13:49,400
+Aku bisa menyatukan kursi di ruang konferensi untuk tidur.
+
+148
+00:13:49,400 --> 00:13:52,790
+Dan bajingan teroris itu lebih awal...
+
+149
+00:13:52,790 --> 00:13:58,390
+Bahkan jika dia sekuat itu, apa dia akan datang ke markas besar
+kepolisian untuk memukulku?
+
+150
+00:14:00,550 --> 00:14:03,540
+<i>Apa mungkin dia, dikirim oleh Yang Seong Hoon?</i>
+
+151
+00:14:03,540 --> 00:14:05,730
+<i> Mungkin.</i>
+
+152
+00:14:09,780 --> 00:14:11,740
+Hei...
+
+153
+00:14:12,250 --> 00:14:14,690
+Jika kau tidak punya tempat lain untuk tinggal...
+
+154
+00:14:14,690 --> 00:14:16,630
+Apa?
+
+155
+00:14:19,480 --> 00:14:21,330
+Lupakan.
+
+156
+00:14:25,790 --> 00:14:29,410
+Terima kasih untuk hari ini... dalam banyak hal.
+
+157
+00:14:31,080 --> 00:14:32,900
+Pasang kembali!
+
+158
+00:14:32,900 --> 00:14:34,480
+Apa?
+
+159
+00:14:46,900 --> 00:14:48,680
+Kenapa?
+
+160
+00:14:51,210 --> 00:14:52,810
+Ini menyebalkan...
+
+161
+00:14:52,810 --> 00:14:54,540
+Apa?
+
+162
+00:14:57,950 --> 00:15:00,480
+- Aku akan membiarkanmu berutang padaku.
+- Apa?
+
+163
+00:15:00,480 --> 00:15:03,220
+Aku bilang aku akan membiarkanmu berutang padaku.
+
+164
+00:15:03,220 --> 00:15:07,240
+♬ <i>Kau kembali dan bilang kau tidak mengerti apa yang mereka maksud. </i>♬
+
+165
+00:15:07,240 --> 00:15:12,240
+Mari kita perjelas. Kau tidak membiarkanku berutang padamu, tapi
+kau sedang membayar utangmu padaku.
+
+166
+00:15:12,240 --> 00:15:14,880
+Aku biarkan kau tidur di rumahku selama 2 hari saat kau menjadi
+tersangka pembunuhan.
+
+167
+00:15:14,880 --> 00:15:18,410
+Katakanlah kau akan membayarnya kembali dengan bunga, jadi 3 hari?
+
+168
+00:15:18,410 --> 00:15:23,330
+Ya. Dalam 3 hari, kita sudah menangkap terorisnya atau belum,
+kita akan punya resolusi.
+
+169
+00:15:23,330 --> 00:15:28,250
+Aku rasa aku membuat kesalahan. Aku rasa lebih baik kau
+tidur di markas besar kepolisian.
+
+170
+00:15:28,250 --> 00:15:29,740
+Haruskah aku mengantarmu kembali?
+
+171
+00:15:29,740 --> 00:15:33,670
+Tidak. Aku mau ke kamar mandi dulu.
+
+172
+00:15:33,670 --> 00:15:37,410
+- Kamar mandi di sebelah sana...
+- Jangan khawatir aku sangat tahu rumah ini.
+
+173
+00:15:37,410 --> 00:15:39,530
+Aku sudah tahu apa-apa yang disimpan dan tempatnya.
+
+174
+00:15:39,530 --> 00:15:44,200
+Jangan sentuh benda dengan tidak hati-hati.
+Letakkan benda pada tempatnya.
+
+175
+00:15:44,200 --> 00:15:46,110
+Mengerti?
+
+176
+00:15:46,110 --> 00:15:48,330
+Oke.
+
+177
+00:15:59,060 --> 00:16:00,690
+Tidak.
+
+178
+00:16:06,210 --> 00:16:07,840
+Tidak.
+
+179
+00:16:12,560 --> 00:16:14,230
+Tidak.
+
+180
+00:16:23,080 --> 00:16:24,910
+Tidak.
+
+181
+00:16:31,700 --> 00:16:33,160
+Tidak.
+
+182
+00:16:39,000 --> 00:16:40,870
+Tidak.
+
+183
+00:16:40,870 --> 00:16:52,580
+<font color="#FFFF00">subtitle by team Asma fruity @Oyi&Murni</font>
+
+184
+00:16:52,580 --> 00:16:54,570
+Tidak.
+- Tidak!
+
+185
+00:16:54,570 --> 00:16:56,970
+<i> Min! Min!</i>
+
+186
+00:16:56,970 --> 00:17:00,550
+<i>Tidak! Hyung!</i>
+
+187
+00:17:00,550 --> 00:17:04,660
+<i> Min! Tidak!</i>
+
+188
+00:17:11,830 --> 00:17:13,490
+Tidak.
+
+189
+00:17:16,320 --> 00:17:18,240
+Lee Hyeon.
+
+190
+00:17:23,310 --> 00:17:25,400
+Lee Hyeon.
+
+191
+00:17:25,400 --> 00:17:27,790
+Min!
+
+192
+00:17:35,590 --> 00:17:39,580
+Kau datang untuk menemukan adikmu?
+
+193
+00:17:39,580 --> 00:17:46,410
+♬ <i>Ya, bagaimanapun juga</i> ♬
+
+194
+00:17:46,410 --> 00:17:52,910
+♬ <i>Saat aku melihatmu</i> ♬
+
+195
+00:17:52,910 --> 00:17:59,390
+♬ <i>Aku lihat ingatan itu </i> ♬
+
+196
+00:17:59,390 --> 00:18:03,260
+♬ <i>yang hilang darimu </i> ♬
+
+197
+00:18:05,700 --> 00:18:12,230
+♬ <i>Aku akan melindungimu yang memudar</i> ♬
+
+198
+00:18:12,230 --> 00:18:18,750
+♬ <i>Jika ada masalah ingatlah aku</i> ♬
+
+199
+00:18:18,750 --> 00:18:24,890
+♬ <i>Aku merindukanmu jadi tinggallah sebentar</i> ♬
+
+200
+00:18:24,890 --> 00:18:30,680
+♬ <i>dan lihatlah aku</i> ♬
+
+201
+00:18:31,620 --> 00:18:38,170
+♬ <i>Aku tidak bisa berhenti. Aku takut.</i> ♬
+
+202
+00:18:38,170 --> 00:18:44,770
+♬ <i>Bagaimana aku harus melakukan apa yang aku tidak bisa lakukan </i>
+
+203
+00:18:44,770 --> 00:18:52,340
+♬ <i>Lihatlah aku. Ingatlah aku. </i> ♬
+
+204
+00:18:52,340 --> 00:18:55,580
+♬ <i>Aku </i> ♬
+
+205
+00:19:18,340 --> 00:19:20,590
+Kau baik-baik saja?
+
+206
+00:19:20,590 --> 00:19:22,810
+Akankah aku baik-baik saja?
+
+207
+00:19:23,390 --> 00:19:25,160
+Ini jelas bahwa...
+
+208
+00:19:25,160 --> 00:19:27,800
+kau tidak baik-baik saja.
+
+209
+00:19:28,410 --> 00:19:30,240
+Tentu.
+
+210
+00:19:31,810 --> 00:19:34,130
+Jangan keluar dari kamar yang telah ditentukan.
+
+211
+00:19:34,130 --> 00:19:37,800
+Jangan sentuh apapun kecuali yang ditentukan padamu.
+Aku memperingatkanmu.
+
+212
+00:19:37,800 --> 00:19:42,060
+Kenapa kau merangkak ke kamarku untuk tidur?
+
+213
+00:19:42,060 --> 00:19:45,340
+Kau tahu apa hal pertama yang aku lihat saat aku buka mataku?
+
+214
+00:19:57,530 --> 00:20:00,440
+Wajahmu!
+
+215
+00:20:00,440 --> 00:20:02,720
+Astaga... Itu membuatku takut.
+
+216
+00:20:02,720 --> 00:20:05,220
+Membuatmu takut? Huh?
+
+217
+00:20:05,220 --> 00:20:08,490
+Kau lakukan itu sekali lagi dan aku akan menendangmu keluar.
+
+218
+00:20:08,490 --> 00:20:11,970
+Astaga... Siapa yang tidak melepaskan tanganku?
+
+219
+00:20:11,970 --> 00:20:15,910
+Wow, aku sangat kaget.
+
+220
+00:20:17,850 --> 00:20:19,390
+Aku...
+
+221
+00:20:20,360 --> 00:20:21,620
+Ya, Ketua Tim?
+
+222
+00:20:21,620 --> 00:20:24,660
+Cha Ji An, kau baik-baik saja?
+
+223
+00:20:24,660 --> 00:20:28,220
+Tadi malam, aku tidak bisa menghubungimu juga Lee Hyeon.
+
+224
+00:20:28,220 --> 00:20:30,320
+Pagi ini, aku ke rumahmu...
+
+225
+00:20:30,320 --> 00:20:33,880
+dan rumahmu jadi TKP.
+
+226
+00:20:33,880 --> 00:20:36,100
+Menyerang polisi adalah kejahatan serius.
+
+227
+00:20:36,100 --> 00:20:38,320
+Kau harus segera melaporkannya.
+
+228
+00:20:38,320 --> 00:20:40,760
+Maafkan aku.
+
+229
+00:20:40,760 --> 00:20:46,000
+Sudah terlambat dan lukanya tidak terlalu parah, jadi...
+
+230
+00:20:46,000 --> 00:20:47,000
+Maafkan aku.
+
+231
+00:20:47,000 --> 00:20:50,680
+Ini bisa jadi penyerangan balas dendam. Di antara
+kasus yang ditangani Cha Ji An,
+
+232
+00:20:50,680 --> 00:20:52,860
+- periksa siapa saja yang baru dibebaskan dari penjara.
+- Ya.
+
+233
+00:20:52,860 --> 00:20:54,600
+Aku akan menyelidiki mobilnya.
+
+234
+00:20:54,600 --> 00:20:56,500
+Fakta bahwa mobilnya tiba-tiba mogok sedikit mencurigakan.
+
+235
+00:20:56,500 --> 00:20:59,860
+Seong Joo akan memeriksa CCTV di dekat supermarket dan rumah Cha Ji An.
+
+236
+00:20:59,860 --> 00:21:04,560
+Saat tim forensik selesai, aku akan menjalankannya melalui AFIS
+[Sistem Identifikasi Sidik Jari Otomatis]
+
+237
+00:21:04,560 --> 00:21:08,560
+Kau mungkin tidak bisa pulang. Kau punya tempat lain untuk tinggal?
+
+238
+00:21:08,560 --> 00:21:10,240
+Itu,
+
+239
+00:21:11,160 --> 00:21:13,520
+Dia bisa tinggal di rumahku.
+
+240
+00:21:13,520 --> 00:21:18,000
+Maksudku, aku tinggal dengan ayahku jadi...
+
+241
+00:21:18,000 --> 00:21:20,360
+Kau menyuruhku tinggal di rumah yang sama dengan Kepala Deputi?
+
+242
+00:21:20,360 --> 00:21:25,000
+Aigoo, dia tidak tahan berada di ruangan yang sama dengan Kepala
+Deputi selama 1 menit ataupun 1 detik.  Begitu juga aku.
+
+243
+00:21:25,000 --> 00:21:27,380
+Kalian juga, kan?
+
+244
+00:21:27,380 --> 00:21:30,240
+Apa maksudmu kau tidak menyukainya? Kepala Deputi?
+
+245
+00:21:35,840 --> 00:21:40,580
+Itu, aku berubah pikiran.
+
+246
+00:21:41,660 --> 00:21:43,160
+Ya.
+
+247
+00:21:43,160 --> 00:21:45,580
+Aku memanfaatkan Direktur Yang sedikit.
+
+248
+00:21:48,080 --> 00:21:51,380
+Pikirkan itu sebagai langkah untuk mendapatkan orang berikutnya.
+
+249
+00:21:52,700 --> 00:21:57,040
+Aku akan senang bermain dengannya dan...
+
+250
+00:21:57,040 --> 00:21:59,180
+aku sendiri yang akan menyingkirkannya.
+
+251
+00:22:00,620 --> 00:22:03,360
+Bukankah itu lebih baik bagi Direktur Yang?
+
+252
+00:22:06,510 --> 00:22:08,980
+<i>Cha Ji An.</i>
+
+253
+00:22:11,960 --> 00:22:14,860
+Aku ada telepon masuk.
+
+254
+00:22:18,100 --> 00:22:20,740
+Bagaimana kabarmu? Detektif Cha.
+
+255
+00:22:25,040 --> 00:22:26,960
+Yang Seung Hoon?
+
+256
+00:22:26,960 --> 00:22:28,680
+Ya.
+
+257
+00:22:28,680 --> 00:22:31,880
+Aku penasaran apakah dia yang mengirim orang itu untuk mengejarku.
+
+258
+00:22:31,880 --> 00:22:35,020
+Untuk balas dendam karena aku mengirim permintaan kerja sama dengan Cina.
+
+259
+00:22:35,020 --> 00:22:40,580
+Aku tidak yakin. Itu kemungkinan, tapi aku tidak tahu apapun
+tentang hal seperti ini akan terjadi.
+
+260
+00:22:41,560 --> 00:22:44,120
+Aku mengerti.
+
+261
+00:22:44,120 --> 00:22:47,600
+Kau meminta bertemu denganku agar kau bisa menanyakanku hal ini?
+
+262
+00:22:47,600 --> 00:22:50,560
+Aku rasa.
+
+263
+00:22:50,560 --> 00:22:54,040
+Aku juga ingin berterima kasih padamu.
+
+264
+00:22:54,040 --> 00:22:57,560
+Apapun alasannya, senang bertemu denganmu lagi.
+
+265
+00:23:00,000 --> 00:23:04,020
+Maafkan aku, Pengacara Jeong.
+
+266
+00:23:04,020 --> 00:23:08,700
+Ini karena aku punya kepribadian cukup menentukan
+dan tidak tahan kalau tidak tahu.
+
+267
+00:23:10,940 --> 00:23:13,580
+Kau punya ketertarikan padaku?
+
+268
+00:23:13,580 --> 00:23:15,560
+Ya.
+
+269
+00:23:15,560 --> 00:23:17,160
+Apa?
+
+270
+00:23:18,660 --> 00:23:20,720
+Ini kedua kalinya bagiku.
+
+271
+00:23:20,720 --> 00:23:22,380
+Apa itu?
+
+272
+00:23:23,240 --> 00:23:26,480
+Memiliki ketertarikan khusus...
+
+273
+00:23:26,480 --> 00:23:28,800
+pada orang spesifik.
+
+274
+00:23:29,780 --> 00:23:33,920
+Apakah ketertarikan pertamamu adalah cinta pertamamu?
+
+275
+00:23:36,100 --> 00:23:37,960
+Ya.
+
+276
+00:23:49,580 --> 00:23:51,780
+<i>Seseorang bertanya,</i>
+
+277
+00:23:52,820 --> 00:23:57,000
+"Siapa yang paling kau suka di dunia ini?"
+
+278
+00:23:59,580 --> 00:24:01,140
+<i>Itu Hyung.</i>
+
+279
+00:24:01,140 --> 00:24:02,920
+<i>"Kau mau jadi apa saat dewasa?"</i>
+
+280
+00:24:02,920 --> 00:24:05,360
+<i>Aku ingin menjadi seperti Hyung.</i>
+
+281
+00:24:05,360 --> 00:24:07,000
+<i>Tapi,</i>
+
+282
+00:24:13,340 --> 00:24:15,940
+ayah menjauhkan Hyung dariku.
+
+283
+00:24:17,940 --> 00:24:22,180
+Hyung, kau di dalam?
+
+284
+00:24:22,180 --> 00:24:26,100
+Hyung, ayo bermain bersama.
+
+285
+00:24:26,100 --> 00:24:28,560
+Hyuuuuung.
+
+286
+00:24:29,200 --> 00:24:29,780
+Dan,
+
+287
+00:24:29,780 --> 00:24:35,160
+Lee Joon Young mencari kami malam itu.
+
+288
+00:24:35,160 --> 00:24:38,480
+Orang jahat datang membunuh kami.
+
+289
+00:24:55,000 --> 00:25:02,000
+<font color="#FFFF00">subtitle by team Asma fruity @Oyi&Murni</font>
+
+290
+00:25:31,180 --> 00:25:35,500
+Kau Min?
+
+291
+00:25:37,280 --> 00:25:41,340
+Oh, itu kau. Aku banyak mendengar tentangmu dari hyung-mu.
+
+292
+00:25:41,340 --> 00:25:45,000
+Hyung membicarakan tentang aku?
+
+293
+00:25:45,000 --> 00:25:46,820
+Ya.
+
+294
+00:25:49,640 --> 00:25:52,040
+Kau mau ikut denganku?
+
+295
+00:25:54,440 --> 00:25:56,480
+- Min!
+- Hyung!
+
+296
+00:25:56,480 --> 00:25:58,380
+Tidak! Min!
+
+297
+00:25:58,380 --> 00:26:01,060
+Hyung! Selamatkan aku!
+
+298
+00:26:01,060 --> 00:26:04,460
+Hyung! Hyung!
+
+299
+00:26:04,460 --> 00:26:08,760
+Hyung! Hyung!
+
+300
+00:26:13,360 --> 00:26:15,360
+Hyung...
+
+301
+00:26:15,360 --> 00:26:19,140
+Dimana hyung?
+
+302
+00:26:20,060 --> 00:26:22,360
+Hyung.
+
+303
+00:26:22,360 --> 00:26:25,740
+Kemana hyung-ku pergi?
+
+304
+00:26:26,760 --> 00:26:30,440
+Kemana hyung-ku pergi?
+
+305
+00:26:30,440 --> 00:26:35,160
+- Hyung meninggalkanku.
+- Kemana hyung-ku pergi?
+
+306
+00:26:36,180 --> 00:26:40,960
+Hyung. Hyung.
+
+307
+00:26:46,920 --> 00:26:52,160
+Apa yang hyung katakan tentang aku?
+
+308
+00:26:56,740 --> 00:26:59,500
+Apa yang dikatakannya?
+
+309
+00:27:03,560 --> 00:27:08,220
+Dia menyerahkanku pada Lee Joon Young.
+
+310
+00:27:28,340 --> 00:27:30,140
+Pembunuhan tanpa mayat?
+
+311
+00:27:30,140 --> 00:27:32,020
+Ya.
+
+312
+00:27:32,020 --> 00:27:34,900
+Karena itu pertanyaan tidak diduga, aku kaget.
+
+313
+00:27:36,380 --> 00:27:38,720
+Tapi kenapa kau menanyakan hal seperti itu?
+
+314
+00:27:38,720 --> 00:27:43,340
+Aku hanya penasaran. Bagaimana kau melakukan pembuhuhan
+tanpa meninggalkan mayat?
+
+315
+00:27:43,340 --> 00:27:47,920
+Aku tidak yakin. Aku rasa ada banyak cara menyingkirkan mayatnya.
+
+316
+00:27:48,680 --> 00:27:53,280
+Tapi ini sedikit mengganggu untuk mendeskripsikannya dengan kata-kata.
+
+317
+00:27:53,280 --> 00:27:57,160
+Jika itu sangat mengganggu untuk mengatakannya,
+kau bisa menuliskannya.
+
+318
+00:27:57,960 --> 00:28:01,220
+Aku bisa jika kau benar-benar membutuhkannya.
+
+319
+00:28:01,220 --> 00:28:07,300
+Seperti dalam film, kau bisa menggunakan bahan kimia
+untuk menyingkirkan mayat.
+
+320
+00:28:07,300 --> 00:28:09,460
+Ada beberapa pilihan.
+
+321
+00:28:09,460 --> 00:28:13,860
+Pada akhirnya, kuncinya adalah membuang mayat
+ke tempat yang tidak bisa ditemukan.
+
+322
+00:28:14,580 --> 00:28:16,140
+Lee Joon Young...
+
+323
+00:28:16,140 --> 00:28:19,420
+adalah tersangka...
+
+324
+00:28:19,420 --> 00:28:21,200
+pembunuhan tanpa mayat.
+
+325
+00:28:22,000 --> 00:28:26,180
+Jika tidak ada mayat, tidak ada bukti.
+
+326
+00:28:27,500 --> 00:28:30,820
+Jika mayatnya menghilang,
+
+327
+00:28:30,820 --> 00:28:34,780
+pasti ada cara menyingkirkan mayatnya.
+
+328
+00:28:36,940 --> 00:28:41,780
+Apa ada pembunuhan tanpa mayat?
+
+329
+00:28:48,120 --> 00:28:50,140
+Jika pembunuh...
+
+330
+00:28:50,140 --> 00:28:54,260
+melakukan pembunuhan tanpa mayat,
+
+331
+00:28:54,260 --> 00:28:59,720
+di antara banyak cara untuk membuang mayat,
+mereka punya cara mereka "sendiri".
+
+332
+00:28:59,720 --> 00:29:04,100
+Itu menjadi M.O [Modus Operandi] mereka.
+
+333
+00:29:04,100 --> 00:29:05,740
+Aku mengerti.
+
+334
+00:29:16,500 --> 00:29:18,460
+Permisi.
+
+335
+00:29:20,960 --> 00:29:22,980
+Ya, ini aku.
+
+336
+00:29:25,640 --> 00:29:27,940
+Kau disini.
+
+337
+00:29:28,720 --> 00:29:31,480
+Kau sudah selesai memeriksa latar belakang yang aku minta?
+
+338
+00:29:31,480 --> 00:29:33,540
+Ini sangat tidak sepertimu.
+
+339
+00:29:33,540 --> 00:29:36,640
+Bukan begitu. Itu tidak mudah.
+
+340
+00:29:36,640 --> 00:29:39,180
+Itu ilegal untuk memeriksa latar belakang orang.
+
+341
+00:29:39,180 --> 00:29:42,480
+Apalagi mereka semua polisi, petugas pemerintah, dan jaksa.
+
+342
+00:29:42,480 --> 00:29:46,260
+Kenapa orang-orang seperti ini mau melakukan pembunuhan?
+
+343
+00:29:46,260 --> 00:29:51,340
+Kau mau bertemu agar kau bisa menanyakanku hal itu, kan?
+
+344
+00:29:51,340 --> 00:29:53,980
+Mungkin tidak.
+
+345
+00:29:53,980 --> 00:29:57,110
+Aku menemukannya.
+
+346
+00:29:58,850 --> 00:30:00,560
+Menemukan apa?
+
+347
+00:30:00,560 --> 00:30:03,630
+Kau tahu lukisan bola mata.
+
+348
+00:30:05,010 --> 00:30:07,840
+Tidak peduli seberapa banyak aku bertanya, dia tidak bisa ditemukan.
+
+349
+00:30:07,840 --> 00:30:11,360
+- Mungkin itu karena pelukisnya tidak resmi terdaftar,
+aku tidak bisa menemukannya.
+
+350
+00:30:11,360 --> 00:30:12,890
+Tapi?
+
+351
+00:30:12,890 --> 00:30:17,650
+Tapi, aku tahu orang yang mengekspor barang seni selundupan.
+
+352
+00:30:17,650 --> 00:30:19,890
+Langsung ke intinya! Cepat!
+
+353
+00:30:19,890 --> 00:30:22,360
+Jadi, ada seseorang yang dikenal oleh temanku...
+
+354
+00:30:22,360 --> 00:30:25,270
+menggambar sketsa dan bertanya apakah dia tahu tentang lukisan itu.
+
+355
+00:30:25,270 --> 00:30:28,290
+Tapi sketsanya sangat mirip dengan lukisan yang kau cari.
+
+356
+00:30:28,290 --> 00:30:30,980
+Siapa seseorang yang dikenal temanmu itu?
+
+357
+00:30:30,980 --> 00:30:32,960
+Dia bilang dia tidak tahu.
+
+358
+00:30:32,960 --> 00:30:37,310
+- Apa?
+- Dia lupa semuanya. Satu-satunya yang dia ingat sekarang,
+
+359
+00:30:37,310 --> 00:30:40,320
+adalah dia seorang karyawan di The Fako di Incheon.
+
+360
+00:30:40,320 --> 00:30:41,930
+Kau seharusnya mengatakan itu lebih dulu!
+
+361
+00:30:41,930 --> 00:30:43,610
+Lalu kau seharusnya bertanya padaku tentang itu lebih dulu.
+
+362
+00:30:43,610 --> 00:30:45,120
+Cukup dengan itu.
+
+363
+00:30:46,420 --> 00:30:49,340
+Bagaimanapun, kerja yang baik.
+
+364
+00:30:50,620 --> 00:30:52,780
+Ha, si brengsek kasar.
+
+365
+00:30:52,780 --> 00:30:55,660
+<i>THE FAKO</i>
+
+366
+00:30:55,660 --> 00:30:58,430
+<i>FAKO</i>
+
+367
+00:30:58,430 --> 00:31:03,020
+<i>Kualifikasimu lebih untuk melakukan pekerjaan semacam ini</i>
+
+368
+00:31:03,020 --> 00:31:07,250
+Kau memiliki gelar doktor dan master.
+Dan kau bahkan seorang profesor di Amerika.
+
+369
+00:31:07,250 --> 00:31:11,370
+Tentu saja kami sangat berterima kasih orang sepertimu
+dengan kualifikasi tinggi melamar di sini.
+
+370
+00:31:11,370 --> 00:31:14,250
+Aku senang kau senang dengan itu.
+Aku akan segera mulai
+
+371
+00:31:14,250 --> 00:31:18,950
+Ya? Tapi posisi ini membutuhkan kerja fisik.
+
+372
+00:31:18,950 --> 00:31:24,420
+Aku menyukainya. Aku pintar dalam pekerjaan yang rumit
+tapi aku juga tidak pintar di tempat kerja sederhana.
+
+373
+00:31:24,420 --> 00:31:29,000
+Ah... Tapi kami tidak bisa membayarmu sesuai dengan spesifikasimu.
+
+374
+00:31:29,000 --> 00:31:32,110
+- Tapi lebih kecil dari pekerja paruh waktu atau tingkat rendah.
+- Ah.
+
+375
+00:31:32,110 --> 00:31:34,940
+Apa ini yang mereka sebut dengan gairah gajian?
+
+376
+00:31:34,940 --> 00:31:39,980
+Apa kau bicara tentang pengusaha yang
+mengeksploitasi tenaga kerja muda?
+
+377
+00:31:39,980 --> 00:31:42,510
+Ah... itu bukan mengeksploitasi.
+
+378
+00:31:42,510 --> 00:31:46,700
+Kami menawarkan kesempatan bagimu untuk mendapatkan pengalaman
+di bidang yang berbeda dari pekerjaanmu.
+
+379
+00:31:46,700 --> 00:31:49,510
+Baik. Aku akan mengambil kesempatan ini.
+
+380
+00:31:49,510 --> 00:31:51,920
+Tentu saja kami berterima kasih atas pertimbanganmu, tapi jujur...
+
+381
+00:31:51,920 --> 00:31:56,120
+Akulah yang harus berterima kasih. Kapan aku bisa mulai?
+
+382
+00:31:56,120 --> 00:31:58,360
+<i>Semua kotak-kotak yang ada di sini,</i>
+
+383
+00:31:58,360 --> 00:32:01,040
+<i>harus dipindahkan ke kapal yang dijadwalkan berangkat.</i>
+
+384
+00:32:01,040 --> 00:32:01,810
+Ya.
+
+385
+00:32:01,810 --> 00:32:04,210
+Kau tahu bagaimana menggunakan mesin pengangkat barang, kan?
+
+386
+00:32:04,210 --> 00:32:05,880
+Tidak, aku tidak tahu.
+
+387
+00:32:05,880 --> 00:32:10,340
+Ah.. mereka memilih seorang pria yang tidak bisa menggunakan
+mesin pengangkat barang! Ah ayolah!
+
+388
+00:32:10,340 --> 00:32:12,330
+Berapa banyak karyawan yang ada disini secara total?
+
+389
+00:32:12,330 --> 00:32:18,230
+Tidak tahu. Jika kau menggabungkan karyawan nasional, pasti ada banyak. Tapi sekitar 30 di lokasi ini.
+
+390
+00:32:18,230 --> 00:32:20,600
+Tapi kenapa kau bertanya tentang itu?
+
+391
+00:32:21,380 --> 00:32:23,010
+Bekerja keraslah.
+
+392
+00:32:23,010 --> 00:32:25,080
+Halo.
+
+393
+00:32:25,850 --> 00:32:28,310
+- Apa mereka bekerja dalam shift?
+- Ya
+
+394
+00:32:28,310 --> 00:32:33,220
+Dua shift siang dan malam.<b>Tapi kenapa kau bertanya tentang itu? </b>
+
+395
+00:32:33,880 --> 00:32:35,100
+Ya.
+
+396
+00:32:35,100 --> 00:32:38,150
+Ah, Lee Hyeon. Kau dimana?
+
+397
+00:32:38,150 --> 00:32:39,680
+<i>Sesuatu terjadi</i>
+
+398
+00:32:39,680 --> 00:32:43,910
+Tidak, itu tidak perlu untuk penasihat muncul untuk bekerja secara teratur.
+
+399
+00:32:43,910 --> 00:32:46,720
+Tapi kau belum menunjukkan wajahmu pada kita sebentar.
+
+400
+00:32:46,720 --> 00:32:50,890
+Aku sedang sibuk bekerja paruh waktu.
+Jadi aku akan menutupnya jika ini bukan hal yang mendesak.
+
+401
+00:32:55,330 --> 00:32:57,170
+Paruh waktu?
+
+402
+00:32:58,060 --> 00:33:01,840
+Kenapa Lee Hyeon bekerja paruh waktu?
+
+403
+00:33:01,840 --> 00:33:03,370
+Paruh waktu?
+
+404
+00:33:04,070 --> 00:33:07,600
+<i>- Lihat. Aku bilang dia tidak bisa dikendalikan.
+<B>- Tidak heran... </i> </b>
+
+405
+00:33:07,600 --> 00:33:11,180
+Aku tidak bisa melihat dia tinggal di rumah yang sama.
+
+406
+00:33:11,180 --> 00:33:13,700
+Rumah yang sama?
+
+407
+00:33:13,700 --> 00:33:16,870
+Tim yang sama. Tim!
+
+408
+00:33:19,360 --> 00:33:22,080
+Kau bilang kita tidak menemukan sidik jari di mobilku, kan?
+
+409
+00:33:22,080 --> 00:33:23,870
+Mesin pinto keluar begitu saja,
+
+410
+00:33:23,870 --> 00:33:27,330
+kami pikir orang menyembunyikannya tetapi tidak ada.
+
+411
+00:33:27,330 --> 00:33:31,710
+Dia mungkin memakai sarung tangan.
+Tempat parkir supermarket berada di titik tidak ada CCTV.
+
+412
+00:33:31,710 --> 00:33:35,410
+Kita tidak bisa mendapatkan sidik jari dari AFIS dari rumahmu juga.
+
+413
+00:33:35,410 --> 00:33:40,760
+Kita tidak memiliki sidik jari terdaftar untuk orang asing ilegal
+yang sudah tinggal di sini sebelum 2012.
+
+414
+00:34:07,710 --> 00:34:18,750
+<i>Subtitle by Tim Asma Fruity #murni&Oyi</i>
+
+415
+00:34:29,200 --> 00:34:32,770
+Hei! Karyawan baru! Bagaimana bisa kau...
+
+416
+00:34:32,770 --> 00:34:39,380
+Berapa kali aku memberitahumu untuk berhati-hati untuk patung ini.
+
+417
+00:34:46,310 --> 00:34:49,010
+Apa kau mengatakan ada mayat perempuan ditemukan di pelabuhan?
+
+418
+00:34:49,010 --> 00:34:52,120
+Tapi ini tidak dilaporkan pada kantor polisi setempat maupun 112.
+
+419
+00:34:52,120 --> 00:34:54,710
+Laporkan langsung pada ketua dan mintalah agar kita yang
+menyelidikinya.
+
+420
+00:34:54,710 --> 00:34:56,350
+Bukankah ini terjadi pertama kalinya untuk situasi seperti ini?
+
+421
+00:34:56,350 --> 00:34:58,390
+Kekuatan tim kita kuat.
+
+422
+00:35:01,350 --> 00:35:03,230
+Bagaimana mayat ditemukan?
+
+423
+00:35:03,230 --> 00:35:08,620
+Kami memiliki karyawan brengsek yang kasar baru-baru ini
+yang dipekerjakan hari ini atau kemarin.
+
+424
+00:35:08,620 --> 00:35:12,340
+Jika aku bertanya satu pertanyaan, dia bertanya
+padaku sepuluh pertanyaan.
+
+425
+00:35:12,340 --> 00:35:15,610
+Dan dia terus memotong pembicaraanku di tengah kalimat.
+
+426
+00:35:15,610 --> 00:35:18,550
+Karyawan baru itu mirip dengan seseorang yang aku kenal.
+
+427
+00:35:18,550 --> 00:35:20,980
+- Dan?
+- Karyawan baru itu,
+
+428
+00:35:20,980 --> 00:35:22,810
+aku mengatakan kepadanya berkali-kali untuk berhati-hati.
+
+429
+00:35:22,810 --> 00:35:24,860
+Tapi dia memecahkan kotak yang satu ini.
+
+430
+00:35:24,860 --> 00:35:28,490
+Oh ya ampun... dari kotak itu, mayatnya keluar.
+
+431
+00:35:28,490 --> 00:35:31,150
+Dan itu seorang wanita pembukuan kami pada saat itu!
+
+432
+00:35:31,150 --> 00:35:32,640
+Dia seseorang yang kau kenal.
+
+433
+00:35:32,640 --> 00:35:35,960
+Jadi saksi mata pertama adalah karyawan barumu, kan?
+
+434
+00:35:35,960 --> 00:35:36,900
+Ya, itu benar.
+
+435
+00:35:36,900 --> 00:35:38,610
+Apa saksi mata pertama masih di tempat kejadian?
+
+436
+00:35:38,610 --> 00:35:41,380
+Ya. Ikuti aku.
+
+437
+00:35:48,290 --> 00:35:50,860
+Uh? Dia ada di sana!
+
+438
+00:35:50,860 --> 00:35:52,470
+Garis Polisi.
+
+439
+00:35:58,850 --> 00:36:01,260
+Hei! Kau Dave, kau lagi!
+
+440
+00:36:01,260 --> 00:36:02,960
+Jadi pekerja paruh waktu itu...!?
+
+441
+00:36:02,960 --> 00:36:05,570
+Lalu Hyung menelepon untuk melaporkan juga?
+
+442
+00:36:07,410 --> 00:36:10,580
+Bukankah aku memberitahumu? Dia adalah orang yang
+menyelidiki atau mengganggu pembunuhan.
+
+443
+00:36:10,580 --> 00:36:12,320
+Lihat dia sedang di TKP pembunuhan!
+
+444
+00:36:12,320 --> 00:36:13,470
+<i>Itu benar</i>
+
+445
+00:36:13,470 --> 00:36:15,680
+- Itu kelihatannya benar, kan?
+- Ahh!
+
+446
+00:36:16,340 --> 00:36:18,180
+Telingaku yang tajam.
+
+447
+00:36:18,180 --> 00:36:20,450
+Apa yang terjadi?
+
+448
+00:36:23,160 --> 00:36:24,910
+Aku datang terlambat bukan?
+
+449
+00:36:26,580 --> 00:36:28,590
+Aku memanggilnya ke sini.
+
+450
+00:36:30,390 --> 00:36:33,100
+Jika kau ingin tahu persis kau perlu melakukan tes.
+
+451
+00:36:33,100 --> 00:36:35,820
+Dari apa yang aku pikirkan alasan kematian...
+
+452
+00:36:35,820 --> 00:36:38,200
+adalah otak yang terluka.
+
+453
+00:36:38,200 --> 00:36:43,020
+Pada sisi kiri belakang otak ada cedera dengan panjang satu sentimeter.
+
+454
+00:36:43,020 --> 00:36:48,230
+Berikutnya cedera itu terlihat retak.
+
+455
+00:36:48,230 --> 00:36:51,160
+Aku tidak melihat luka lain.
+
+456
+00:36:52,710 --> 00:36:55,280
+Ada pertahanan diri.
+
+457
+00:36:56,790 --> 00:37:01,720
+Ada kemungkinan tinggi DNA pembunuh ditinggalkan di antara kuku.
+
+458
+00:37:01,720 --> 00:37:02,890
+Untunglah...
+
+459
+00:37:02,890 --> 00:37:04,230
+Itu benar.
+
+460
+00:37:04,230 --> 00:37:06,580
+Waktu kematian?
+
+461
+00:37:07,820 --> 00:37:09,630
+Aku tidak tahu.
+
+462
+00:37:09,630 --> 00:37:13,370
+Mayat terasa seolah-olah berada di kulkas.
+
+463
+00:37:13,370 --> 00:37:17,830
+Nona Chae datang untuk bekerja tiga hari lalu...
+
+464
+00:37:17,830 --> 00:37:21,300
+setelah itu dia menghilang tanpa pemberitahuan.
+
+465
+00:37:21,300 --> 00:37:22,780
+Itu benar! Itu benar!
+
+466
+00:37:22,780 --> 00:37:26,820
+Menurut apa yang orang yang katakan, itu sekitar tiga hari.
+
+467
+00:37:26,820 --> 00:37:29,440
+Sepertinya pembunuhan yang disengaja, kan?
+
+468
+00:37:29,440 --> 00:37:32,450
+Mengatakan itu sebagai pembunuhan yang direncanakan...
+
+469
+00:37:33,810 --> 00:37:35,140
+ada terlalu banyak kesalahan.
+
+470
+00:37:35,140 --> 00:37:37,860
+Ya, kesalahannya ada banyak.
+
+471
+00:37:37,860 --> 00:37:42,640
+Cara orang dibunuh dan hilangnya tubuh tidak profesional.
+
+472
+00:37:43,220 --> 00:37:45,380
+Apa artinya?
+
+473
+00:38:00,360 --> 00:38:03,120
+Sebuah tanda tidak pada setiap kotak lainnya.
+
+474
+00:38:04,870 --> 00:38:09,400
+Jika ini naik perahu, dan dikirim...
+
+475
+00:38:09,400 --> 00:38:13,950
+dan jika seseorang yang menemukan tanda ini...
+
+476
+00:38:13,950 --> 00:38:18,310
+hanya akan membuang ini keluar ke laut.
+
+477
+00:38:20,390 --> 00:38:24,450
+Maka akan menjadi kasus pembunuhan tanpa mayat.
+
+478
+00:38:25,310 --> 00:38:31,190
+Jika pembunuh berantai yang menyembunyikan mayat,
+
+479
+00:38:31,190 --> 00:38:36,600
+ada banyak cara untuk menyembunyikan mayat dan
+mungkin ada cara tersendiri,
+
+480
+00:38:36,600 --> 00:38:39,940
+dan yang pasti menjadi cara orang mencintai.
+
+481
+00:38:50,160 --> 00:38:52,150
+Jelaskan kepadaku.
+
+482
+00:38:54,210 --> 00:38:56,500
+Apa yang kau coba temukan?
+
+483
+00:38:59,460 --> 00:39:04,170
+Apa kau menemukan jejak Lee Joon Young?
+
+484
+00:39:05,710 --> 00:39:08,590
+Apa yang kau katakan tiba-tiba? Lee Joon Young?
+
+485
+00:39:08,590 --> 00:39:14,520
+Kau tahu tanpa alasan kenapa kau ada disini?
+
+486
+00:39:14,520 --> 00:39:16,990
+Kau menemukan beberapa informasi.
+
+487
+00:39:16,990 --> 00:39:21,860
+Dan kau datang ke sini dan lalu menemukan mayat.
+Apa aku benar?
+
+488
+00:39:22,670 --> 00:39:26,080
+Sejujurnya, aku tidak tahu.
+
+489
+00:39:26,080 --> 00:39:28,050
+Apa yang kau tidak tahu?
+
+490
+00:39:29,470 --> 00:39:32,750
+Apa yang aku temukan.
+
+491
+00:39:32,750 --> 00:39:36,250
+Aku belum tahu dan juga...
+
+492
+00:39:38,160 --> 00:39:41,640
+mungkin lebih baik jika aku tidak tahu.
+
+493
+00:39:42,550 --> 00:39:46,670
+Untuk saat ini aku harus menemukan pembunuh yang membunuh wanita itu.
+
+494
+00:39:46,670 --> 00:39:51,840
+Dalam jenis kasus pembunuhan pekerja tahu pembunuhnya...
+
+495
+00:39:51,840 --> 00:39:55,360
+dan akan kelihatan mudah untuk ditemukan.
+
+496
+00:39:58,760 --> 00:40:00,330
+Kau bilang kita akan menjadi rekan!
+
+497
+00:40:01,250 --> 00:40:04,510
+Kapan kau akan mengatakan padaku yang sejujurnya?
+
+498
+00:40:04,510 --> 00:40:06,890
+Aku juga ingin bertanya padamu.
+
+499
+00:40:06,890 --> 00:40:11,230
+Jika kau bisa menangkap Lee Joon Young,  jadi kau akan menangkapnya.
+
+500
+00:40:11,230 --> 00:40:13,020
+Lalu apa yang akan kau lakukan?
+
+501
+00:40:15,320 --> 00:40:18,720
+Itu adalah pertanyaan yang sama yang aku dapat beberapa waktu lalu.
+
+502
+00:40:18,720 --> 00:40:20,560
+Dari siapa?
+
+503
+00:40:22,510 --> 00:40:24,990
+Ketika kita pergi untuk menemui Park Dae Yeong.
+
+504
+00:40:27,410 --> 00:40:32,730
+<i>Aku mendengar kau memiliki cerita yang sama denganku</i>
+
+505
+00:40:35,350 --> 00:40:37,510
+<i>Itulah kenapa itu lebih memilukan bagiku</i>
+
+506
+00:40:37,510 --> 00:40:40,310
+Aku mengerti lebih baik daripada yang lain...
+
+507
+00:40:40,310 --> 00:40:43,470
+hatimu dimatikan dari balas dendam.
+
+508
+00:40:43,470 --> 00:40:49,430
+Jadi aku pikir,
+
+509
+00:40:49,430 --> 00:40:50,710
+tidak akan lebih baik jika kau tidak membuat keputusan itu.
+
+510
+00:40:50,710 --> 00:40:53,650
+<i>Apa kau bertemu, dengan orang yang membawa ayahmu?</i>
+
+511
+00:40:53,650 --> 00:40:57,390
+Dan membuatmu menjadi putri seorang penjahat.
+
+512
+00:40:57,980 --> 00:40:59,930
+<i>Orang itu?</i>
+
+513
+00:41:01,540 --> 00:41:04,220
+<i>Tidak, belum.</i>
+
+514
+00:41:04,220 --> 00:41:06,690
+<i>Aku bahkan tidak tahu keberadaannya.</i>
+
+515
+00:41:06,690 --> 00:41:08,950
+<i>Lalu tidak begitu yakin.</i>
+
+516
+00:41:09,690 --> 00:41:12,920
+<i>Sampai kau melihat dia di depan matamu.</i>
+
+517
+00:41:12,920 --> 00:41:15,740
+<i>Sampai saat itu datang kepadamu.</i>
+
+518
+00:41:17,060 --> 00:41:20,450
+<i>Kau tidak tahu apa pilihan yang akan kau buat untuk dirimu</i>
+
+519
+00:41:23,480 --> 00:41:25,980
+Apa jawabanmu?
+
+520
+00:41:27,050 --> 00:41:29,410
+Aku tidak bisa mengatakan apa-apa padanya.
+
+521
+00:41:31,700 --> 00:41:33,230
+Aku kira begitu...
+
+522
+00:41:35,420 --> 00:41:38,240
+Jika kau menemukan sesuatu,
+
+523
+00:41:39,480 --> 00:41:41,890
+tolong katakan padaku yang sebenarnya.
+
+524
+00:41:41,890 --> 00:41:44,080
+Kau juga!
+
+525
+00:41:44,080 --> 00:41:48,020
+Jika kau mengatakan padaku dengan jujur apa bukti yang kau temukan,
+
+526
+00:41:50,290 --> 00:41:52,890
+maka aku akan jujur juga.
+
+527
+00:42:07,180 --> 00:42:14,560
+<i>Tonton Terus I Remember You #Asmafruity</i>
+
+528
+00:42:19,700 --> 00:42:23,280
+Mungkin di suatu tempat disini adalah TKP pembunuhan.
+
+529
+00:42:23,280 --> 00:42:25,290
+Ini cukup sepi.
+
+530
+00:42:25,290 --> 00:42:27,090
+Meski begitu, kita harus mencari satu persatu.
+
+531
+00:42:27,090 --> 00:42:29,420
+Mari kita pasang garis kemudian mencari.
+
+532
+00:42:29,420 --> 00:42:32,360
+- Aku pada baris ini dan Sunbae Son baris itu.
+- Ya.
+
+533
+00:42:32,360 --> 00:42:34,680
+Lalu aku akan mengambil baris ketiga.
+
+534
+00:42:34,680 --> 00:42:36,710
+Aku juga di situ.
+
+535
+00:42:41,080 --> 00:42:42,360
+Aku ingin bertanya padamu.
+
+536
+00:42:42,360 --> 00:42:43,680
+Ya, apapun.
+
+537
+00:42:43,680 --> 00:42:45,990
+Apa ada bukti untuk penyerangan seksual pada korban?
+
+538
+00:42:45,990 --> 00:42:47,710
+Kita perlu otopsi untuk mengetahuinya dengan pasti.
+
+539
+00:42:47,710 --> 00:42:49,700
+Apa semuanya diverifikasi secara visual?
+
+540
+00:42:49,700 --> 00:42:52,910
+Berdasarkan pada pemeriksaan visualku,
+
+541
+00:42:53,710 --> 00:42:56,730
+tidak ada bukti untuk itu.
+
+542
+00:42:57,630 --> 00:42:59,740
+Dia gagal pada kekerasan seksual.
+
+543
+00:42:59,740 --> 00:43:02,360
+Jadi dia membunuhnya karena marah.
+
+544
+00:43:02,360 --> 00:43:05,850
+Atau kekerasan seksual itu bukan alasan utama.
+
+545
+00:43:08,360 --> 00:43:10,590
+Alasan apa yang kau pikirkan?
+
+546
+00:43:13,410 --> 00:43:18,030
+Ada beberapa orang yang tertarik padanya.
+
+547
+00:43:19,670 --> 00:43:21,910
+Kenapa kau menatapku?
+
+548
+00:43:23,530 --> 00:43:26,320
+Tidak, itu bukan aku!
+
+549
+00:43:26,320 --> 00:43:29,620
+Tapi, maaf kau seorang polisi?
+
+550
+00:43:29,620 --> 00:43:32,420
+Itu sama. Siapa pun selain mereka dua?
+
+551
+00:43:32,420 --> 00:43:34,820
+Bukan aku!
+
+552
+00:43:34,820 --> 00:43:37,510
+Lalu bagaimana denganku? Apa salah satunya?
+
+553
+00:43:37,510 --> 00:43:39,550
+Lalu aku akan mengubah pertanyaan.
+
+554
+00:43:39,550 --> 00:43:43,910
+Apa ada orang yang berubah hubungannya dengan korban?
+
+555
+00:43:46,260 --> 00:43:47,560
+Misalnya,
+
+556
+00:43:47,560 --> 00:43:49,500
+hubungan itu tidak benar-benar buruk tapi...
+
+557
+00:43:49,500 --> 00:43:52,440
+mereka mulai berdebat dan saling memberikan tatapan yang lain...
+
+558
+00:43:52,440 --> 00:43:56,130
+atau sebaliknya hubungan yang buruk, tapi...
+
+559
+00:43:56,130 --> 00:43:59,850
+menjadi jauh lebih baik dan mereka tertawa bersama-sama.
+
+560
+00:43:59,850 --> 00:44:02,620
+Jang Ilk Gu? Apa aku benar?
+
+561
+00:44:02,620 --> 00:44:05,250
+Ya! Mereka sering mengobrol.
+
+562
+00:44:05,250 --> 00:44:06,140
+Ya, itu benar.
+
+563
+00:44:06,140 --> 00:44:11,430
+Dengan kesempatan itu Jang Ilk Gu bertindak seperti
+dia mendapat banyak uang...
+
+564
+00:44:11,430 --> 00:44:14,090
+atau membual bahwa dia mendapatkan banyak uang?
+
+565
+00:44:14,090 --> 00:44:16,030
+Bukankah dia melakukan itu?
+
+566
+00:44:16,030 --> 00:44:19,230
+Jika kau ingat. Dia mengatakan kalian tidak tahu apa-apa!
+
+567
+00:44:19,230 --> 00:44:21,170
+Dia terjebak kata-katanya dengan lidahnya.
+
+568
+00:44:21,170 --> 00:44:23,040
+Ya! Itu benar! Itu benar!
+
+569
+00:44:23,040 --> 00:44:24,850
+Itu benar.
+
+570
+00:44:25,410 --> 00:44:28,690
+Orang itu? Dimana dia sekarang?
+
+571
+00:44:28,690 --> 00:44:30,800
+Aku menemukannya!
+
+572
+00:44:30,800 --> 00:44:33,320
+Di sini! Aku menemukan sesuatu!
+
+573
+00:44:33,320 --> 00:44:35,300
+Panggil yang lain.
+
+574
+00:44:35,300 --> 00:44:36,820
+Ya.
+
+575
+00:44:47,410 --> 00:44:49,520
+Halo Pak!
+
+576
+00:44:54,270 --> 00:44:59,000
+Sebelum kami mengatakan apapun kami meminta padamu
+jangan datang ke TKP.
+
+577
+00:45:00,070 --> 00:45:03,060
+Maaf, tapi siapa namamu?
+
+578
+00:45:03,690 --> 00:45:05,050
+Berhenti di sana!
+
+579
+00:45:05,050 --> 00:45:06,820
+Hei! Hei! Hei!
+
+580
+00:45:19,490 --> 00:45:21,990
+Hei! Aku berkata lepaskan aku!
+
+581
+00:45:21,990 --> 00:45:25,010
+Ini panas! Mari kita permudah!
+
+582
+00:45:25,860 --> 00:45:28,260
+Mulai sekarang dengarkan dengan seksama.
+
+583
+00:45:28,260 --> 00:45:31,380
+Jadi...
+
+584
+00:45:31,380 --> 00:45:33,870
+siapa namamu?
+
+585
+00:45:33,870 --> 00:45:37,370
+Jadi itu bukan masalah lalu aku...
+
+586
+00:45:37,370 --> 00:45:40,880
+akan menangkapmu sebagai tersangka pembunuhan.
+
+587
+00:45:46,230 --> 00:45:50,110
+Tidak ada kasus dengan bukti sebanyak ini!
+
+588
+00:45:50,110 --> 00:45:51,470
+Hasil DNA...
+
+589
+00:45:51,470 --> 00:45:54,380
+dari TKP...
+
+590
+00:45:54,380 --> 00:45:56,050
+akan segera keluar.
+
+591
+00:45:56,790 --> 00:46:01,880
+Ada saksi yang melihat kalian bersama-sama!
+
+592
+00:46:03,130 --> 00:46:06,770
+Sebelum hasil DNA keluar mengakulah!
+
+593
+00:46:06,770 --> 00:46:10,030
+Jika kau tidak mengaku saat kami mendapatkan hasil,
+
+594
+00:46:10,030 --> 00:46:12,070
+akan lebih sulit untukmu.
+
+595
+00:46:12,070 --> 00:46:17,280
+Jadi jika kau mengaku dengan cepat sekarang,
+
+596
+00:46:17,280 --> 00:46:19,770
+akan lebih mudah untukmu.
+
+597
+00:46:22,020 --> 00:46:25,760
+Melihat ekspresi itu akan segera berakhir.
+
+598
+00:46:25,760 --> 00:46:29,030
+5, 4, 3...
+
+599
+00:46:29,030 --> 00:46:32,320
+Aku membunuhnya.
+
+600
+00:46:33,120 --> 00:46:35,270
+Aku membunuhnya.
+
+601
+00:46:37,740 --> 00:46:39,820
+Baiklah, bagus.
+
+602
+00:46:39,820 --> 00:46:44,210
+Ah, seharusnya aku mulai dari tiga.
+
+603
+00:46:45,810 --> 00:46:47,540
+Beritahu kami apa alasannya? Kenapa kau membunuhnya?
+
+604
+00:47:04,490 --> 00:47:06,010
+Hei!
+
+605
+00:47:06,010 --> 00:47:07,870
+Hei! Siapa ini?!!
+
+606
+00:47:07,870 --> 00:47:09,630
+Tuan Lee Hyeon!
+
+607
+00:47:11,650 --> 00:47:14,040
+Hei, apa yang kalian lakukan?
+
+608
+00:47:14,040 --> 00:47:15,990
+Buka pintunya! Hei!
+
+609
+00:47:17,420 --> 00:47:19,060
+Kuncinya!
+
+610
+00:47:47,820 --> 00:47:50,810
+Jadi kau tahu.
+
+611
+00:47:55,160 --> 00:47:58,880
+Aku tahu segalanya jadi katakan yang sebenarnya.
+
+612
+00:48:01,040 --> 00:48:03,560
+Apa yang kau katakan padaku sekarang...
+
+613
+00:48:06,290 --> 00:48:09,760
+di koran, di mana saja...
+
+614
+00:48:09,760 --> 00:48:11,650
+tidak akan dicatat.
+
+615
+00:48:13,600 --> 00:48:16,400
+Kau tahu ada akhir di penjara?
+
+616
+00:48:16,400 --> 00:48:18,920
+Ini mungkin tidak banyak membantu tapi...
+
+617
+00:48:18,920 --> 00:48:22,050
+setidaknya begitu kau hidup di penjara akan lebih baik...
+
+618
+00:48:22,050 --> 00:48:24,800
+dapat membantumu...
+
+619
+00:48:24,800 --> 00:48:27,490
+atau dapatkan seorang pengacara yang baik di sisimu.
+
+620
+00:48:28,700 --> 00:48:30,740
+Jadi katakan padaku.
+
+621
+00:48:34,360 --> 00:48:35,920
+Kau...
+
+622
+00:48:38,710 --> 00:48:41,440
+memindahkan sesuatu, bukan?
+
+623
+00:48:41,440 --> 00:48:45,140
+Kau tidak membunuhnya karena pemerkosaan...
+
+624
+00:48:45,140 --> 00:48:47,310
+atau atas keinginan dirimu sendiri.
+
+625
+00:48:47,310 --> 00:48:49,500
+Kau akan memindahkan sesuatu...
+
+626
+00:48:49,500 --> 00:48:52,710
+tapi tertangkap oleh dia.
+
+627
+00:48:52,710 --> 00:48:55,660
+Jadi itu sebuah kontainer? Benar?
+
+628
+00:48:56,400 --> 00:48:57,770
+Ya.
+
+629
+00:48:58,670 --> 00:49:02,590
+Siapa yang memerintahkanmu juga?
+
+630
+00:49:02,590 --> 00:49:05,440
+Itu... Aku tidak tahu.
+
+631
+00:49:07,970 --> 00:49:11,000
+Suatu hari ada panggilan datang,
+
+632
+00:49:11,000 --> 00:49:15,130
+jika kotak baru akan dikirimkan...
+
+633
+00:49:15,130 --> 00:49:19,760
+dan itu akan disembunyikan di antara kotak seni.
+
+634
+00:49:19,760 --> 00:49:22,280
+Di kirim ke perahu.
+
+635
+00:49:22,910 --> 00:49:27,470
+Jadi semua yang perlu aku lakukan adalah memindahkan kotak ke perahu.
+
+636
+00:49:27,470 --> 00:49:31,280
+Lalu, di perahu orang lain akan...
+
+637
+00:49:31,280 --> 00:49:33,740
+membuang kotak itu ke laut.
+
+638
+00:49:33,740 --> 00:49:37,250
+Itulah bagaimana pekerjaan itu dilakukan.
+
+639
+00:49:38,970 --> 00:49:42,520
+Seberapa sering kotak datang?
+
+640
+00:49:42,520 --> 00:49:44,450
+Benar-benar hanya kadang-kadang dan...
+
+641
+00:49:44,450 --> 00:49:49,490
+uang deposit diantarkan.
+
+642
+00:49:50,330 --> 00:49:54,020
+Setiap kali aku mengantarkan kotak aku punya banyak uang.
+
+643
+00:49:54,990 --> 00:49:57,860
+Tapi kemudian aku melihatnya...
+
+644
+00:49:58,480 --> 00:50:01,910
+apa yang ada di dalam kotak.
+
+645
+00:50:10,200 --> 00:50:15,330
+Pada awalnya, aku tidak tahu, tapi setelah itu, kadang-kadang...
+
+646
+00:50:15,330 --> 00:50:17,530
+aku membuka kotak itu dan melihatnya.
+
+647
+00:50:17,530 --> 00:50:22,010
+Aku penasaran ingin melihat benda apa yang dilukis.
+
+648
+00:50:24,150 --> 00:50:28,510
+Apa kau melihat mayat baru-baru ini juga? Mungkinkah...
+
+649
+00:50:29,510 --> 00:50:32,990
+- ini adalah orang itu?
+- Oh, ya ya.
+
+650
+00:50:35,480 --> 00:50:38,810
+Satu-satunya hal yang kau tahu adalah suara.
+
+651
+00:50:38,810 --> 00:50:42,230
+Itu kenyataannya. Aku hanya tahu suara itu.
+
+652
+00:50:43,890 --> 00:50:49,160
+Berapa banyak dari sekarang kau sudah mengantarkannya ke perahu?
+
+653
+00:50:55,240 --> 00:50:59,920
+Satu per satu, aku memasukannya.
+
+654
+00:50:59,960 --> 00:51:02,030
+Sebagai sebuah suvenir.
+
+655
+00:51:49,540 --> 00:51:54,020
+Wow, aku tidak tahu siapa cinta pertamamu tapi kau
+pasti sangat menyukai orang itu.
+
+656
+00:51:58,960 --> 00:52:03,280
+Ini bagus. Kau terlihat sedikit lebih manusiawi.
+
+657
+00:52:04,370 --> 00:52:08,020
+- Apa begitu?
+- Ya.
+
+658
+00:52:08,730 --> 00:52:13,530
+Sebenarnya, aku melihat orang itu dari waktu ke waktu.
+
+659
+00:52:13,550 --> 00:52:17,180
+- Cinta pertamamu?
+- Tapi orang itu...
+
+660
+00:52:18,090 --> 00:52:19,940
+orang itu bahkan tidak mengenaliku.
+
+661
+00:52:21,820 --> 00:52:26,120
+Lalu, kau pergi mengatakannya lebih dulu dan berbicara dengan orang itu.
+
+662
+00:52:26,120 --> 00:52:28,250
+Jangan hanya menunggu untuk diingat.
+
+663
+00:52:28,300 --> 00:52:31,020
+Ini aku dan kenapa kau tidak mengingatku?
+
+664
+00:52:31,020 --> 00:52:33,850
+Yang harus kau lakukan adalah jujur bertanya.
+
+665
+00:52:33,850 --> 00:52:37,970
+Tidak, itu seperti sebuah permainan...
+
+666
+00:52:39,410 --> 00:52:40,920
+untukku.
+
+667
+00:52:42,970 --> 00:52:47,050
+<i>Ingatlah aku.</i>
+
+668
+00:52:54,020 --> 00:52:55,930
+<i>Sampai di sini.</i>
+
+669
+00:53:04,530 --> 00:53:11,000
+<i>Kenapa? Pengacara Jeong tidak memiliki fitur yang cukup
+membedakan bagimu untuk mengingat atau diingat</i>
+
+670
+00:53:11,000 --> 00:53:14,100
+- Seperti aku.
+<b>- Entahlah. </b>
+
+671
+00:53:17,890 --> 00:53:20,930
+Aku tetap berutang padamu.
+
+672
+00:53:21,790 --> 00:53:23,400
+Aku tahu.
+
+673
+00:53:24,550 --> 00:53:27,060
+Ini tidak seperti aku orang yang memiliki terlalu banyak waktu luang.
+
+674
+00:53:27,060 --> 00:53:29,420
+<i>Nah, suatu hari nanti aku mungkin kau melunasinya, aku kira</i>
+
+675
+00:53:29,420 --> 00:53:33,370
+<i>Kirimkan tagihanmu dengan tarif per jam-mu. Permisi</i>
+
+676
+00:54:01,750 --> 00:54:04,210
+Hei, kau bajingan. Apa yang kau pikir kau lakukan?
+
+677
+00:54:04,230 --> 00:54:08,880
+Apa yang kau bicarakan dengan dia setelah kau
+mematikan mike dan monitor?
+
+678
+00:54:10,050 --> 00:54:13,920
+- Katakan itu.
+- Lee Hyeon, beritahu kami.
+
+679
+00:54:14,680 --> 00:54:18,860
+Aku tidak tahu monitor dan mike dimatikan.
+
+680
+00:54:18,880 --> 00:54:23,560
+- Apa kau mengatakan yang sebenarnya?
+- Apa yang kalian bicarakan?
+
+681
+00:54:23,600 --> 00:54:26,440
+Aku ingin tahu apa dia ingin menambahkan sesuatu pernyataan aslinya.
+
+682
+00:54:26,460 --> 00:54:30,760
+Dia mengatakan dia tidak ada yang ingin ditambahkan. Itu saja.
+
+683
+00:54:40,710 --> 00:54:42,900
+<i>Bajingan itu. Benar-benar.</i>
+
+684
+00:55:03,870 --> 00:55:08,510
+Oh, pengacara Jeong. Apa yang membawamu kemari?
+
+685
+00:55:17,960 --> 00:55:22,980
+Aku di sini karena klienku bersama tim yang tepat di sebelah Tim Khusus.
+
+686
+00:55:25,070 --> 00:55:28,250
+<i>Aku hanya mengenal suara orang itu </i>
+
+687
+00:55:28,280 --> 00:55:32,300
+<i>Sekarang aku bisa sering melihatmu, rasanya bagus</i>
+
+688
+00:55:32,300 --> 00:55:34,770
+<i>Jika itu membuatmu merasa baik, syukurlah.</i>
+
+689
+00:56:10,000 --> 00:56:36,000
+<font color="#00FF00">Nan</font><font color="#00FF00">ti</font><font color="#00FF00">kan</font> <font color="#00FF00">Ter</font><font color="#00FF00">je</font><font color="#00FF00">ma</font><font color="#00FF00">han</font> <font color="#00FF00">Kami</font> <font color="#00FF00">Be</font><font color="#00FF00">ri</font><font color="#00FF00">kut</font><font color="#00FF00">nya</font>
+
+690
+00:56:37,960 --> 00:56:44,550
+♬ <i>Aku akan melindungimu yang memudar</i> ♬
+
+691
+00:56:44,550 --> 00:56:51,030
+♬ <i>Jika ada masalah ingatlah aku</i> ♬
+
+692
+00:56:51,030 --> 00:56:57,070
+♬ <i>Aku merindukanmu jadi tinggallah sebentar </i> ♬
+
+693
+00:56:57,110 --> 00:57:01,950
+♬ <i>dan lihatlah aku</i> ♬
+
+694
+00:57:03,970 --> 00:57:10,430
+♬ <i> Aku tidak bisa berhenti. Aku takut</i> ♬
+
+695
+00:57:10,430 --> 00:57:16,890
+♬ <i>Bagaimana aku harus melakukan apa yang aku tidak bisa lakukan </i> ♬
+
+696
+00:57:16,930 --> 00:57:23,730
+♬ <i>Lihatlah aku. Ingatlah aku </i> ♬
+
+697
+00:57:24,670 --> 00:57:26,410
+♬ <i>Aku. </i> ♬
+
+698
+00:57:29,950 --> 00:57:33,220
+♬ <i>Ya, bahkan buatlah sebuah usaha </i> ♬
+
+699
+00:57:34,340 --> 00:57:39,640
+♬ <i>Memang di hadapanmu</i> ♬
+
+700
+00:57:40,980 --> 00:57:46,040
+♬ <i> Kenangan yang aku ingin </i> ♬
+
+701
+00:57:46,080 --> 00:57:49,320
+♬ <i>lupakan kembali padaku </i> ♬
+
+702
+00:57:49,360 --> 00:57:52,990
+♬ <i>kembali padaku</i> ♬
+
+703
+00:57:55,760 --> 00:58:02,360
+<font face="Comic Sans MS" color="#ff00ff">♬ <i> Aku akan melindungimu yang memudar </i> ♬</font>
+
+704
+00:58:02,360 --> 00:58:08,780
+<font face="Comic Sans MS" color="#ff00ff">♬ <i> Jika ada masalah ingatlah aku </i> ♬</font>
+
+705
+00:58:08,780 --> 00:58:12,000
+<font face="Comic Sans MS" color="#ff00ff">♬ <i> Aku merindukanmu... </i> ♬</font>
+
